@@ -1,4 +1,4 @@
-# RAG Project
+# RAG Project - Retrieval Augmented Generation
 
 This project implements a Retrieval Augmented Generation (RAG) system.
 
