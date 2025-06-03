@@ -1,0 +1,14 @@
+langchain
+faiss-cpu
+nomic
+sentence-transformers
+ollama
+PyPDF2
+langchain-community
+PyPDF
+langchain-huggingface
+langchain-text-splitters
+langchain-text-loader
+langchain-text-splitters
+einops
+langchain-ollama
